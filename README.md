@@ -1,5 +1,5 @@
 # Heart-Disease-Classification
-This notebook looks into using various Python-based machine learning and data science libraries in an attempt to build a machine learning model capable of predicting whether or not someone has heart disease based on their medical attributes.
+This notebook looks into using various Python-based machine learning and data science tools and libraries in an attempt to build a machine learning model which can of predict whether or not someone has heart disease based on their medical attributes.
 
 I'am going to take the following approach:
 1. Problem definition
@@ -28,7 +28,7 @@ There is also a version of it available on Kaggle. https://www.kaggle.com/datase
 
 This is where I'll get different information about each of the features in your data.
 
-**Create data dictionary**
+**Data dictionary**
 
 1. age - age in years
 2. sex - (1 = male; 0 = female)
